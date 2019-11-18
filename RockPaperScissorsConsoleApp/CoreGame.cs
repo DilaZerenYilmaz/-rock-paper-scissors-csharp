@@ -63,7 +63,7 @@ namespace RockPaperScissorsConsoleApp
 
             Console.WriteLine("Computer set...");
 
-            Thread.Sleep(1500);
+            // Thread.Sleep(1500);
 
             bool input = true;
             GameEnum userChoose = GameEnum.Rock;
