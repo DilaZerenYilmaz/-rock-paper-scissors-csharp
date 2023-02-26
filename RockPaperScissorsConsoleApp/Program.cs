@@ -8,6 +8,7 @@ namespace RockPaperScissorsConsoleApp
         {
             Console.WriteLine("Welcome To The Game \"Rock Paper Scissors\"");
             CoreGame.Run();
+            global::System.Console.WriteLine();
         }
     }
 }
